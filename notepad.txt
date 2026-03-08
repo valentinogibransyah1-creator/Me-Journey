@@ -2,3 +2,4 @@ pantau terus perjalan saya
 - belajar html  dan css
 - git  dan github
 - framework css tailwind and boostrap more SASS dan SCSS
+- tidak belajar git 
