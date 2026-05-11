@@ -3,3 +3,4 @@ pantau terus perjalan saya
 - git  dan github
 - framework css tailwind and boostrap more SASS dan SCSS
 - tidak belajar git 
+lanjut lagi belajar git
